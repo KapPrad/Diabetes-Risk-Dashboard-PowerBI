@@ -1,3 +1,7 @@
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
  # 🩺 Diabetes Risk Analysis Dashboard
 
 This project is an interactive Power BI dashboard that visualizes, analyzes, and uncovers hidden patterns in diabetes risk based on demographic, clinical, and behavioral factors. It goes beyond visualization into ethical data design and model fairness — ideal for public health and AI use cases.
