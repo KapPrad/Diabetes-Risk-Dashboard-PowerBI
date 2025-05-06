@@ -1,6 +1,6 @@
 ![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
+
 
  # 🩺 Diabetes Risk Analysis Dashboard
 
