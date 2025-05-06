@@ -14,11 +14,12 @@ This project is an interactive Power BI dashboard that visualizes, analyzes, and
 - 91% diabetic rate in low activity + heavy alcohol users
 - Chronic sugar levels (HbA1c) elevated across all ethnicities
 
-##📊 Tools & Features
+## 📊 Tools & Features
 
 -Power BI: Dashboard creation, visual storytelling, slicers, filters
 -DAX: Custom measures for prevalence, sorting, percentage calculations
 -Power Query: Data cleaning, conditional columns, AgeBand creation, BMI categorization
+
 Visuals Used:
 -Bubble charts (Glucose vs BMI, sized by HbA1c)
 -Matrix heatmaps (Age × BMI → Risk)
