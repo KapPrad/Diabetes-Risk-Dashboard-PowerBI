@@ -1,4 +1,4 @@
-# 🩺 Diabetes Risk Analysis Dashboard
+ # 🩺 Diabetes Risk Analysis Dashboard
 
 This project is an interactive Power BI dashboard that visualizes, analyzes, and uncovers hidden patterns in diabetes risk based on demographic, clinical, and behavioral factors. It goes beyond visualization into ethical data design and model fairness — ideal for public health and AI use cases.
 
@@ -16,15 +16,15 @@ This project is an interactive Power BI dashboard that visualizes, analyzes, and
 
 ## 📊 Tools & Features
 
--Power BI: Dashboard creation, visual storytelling, slicers, filters
--DAX: Custom measures for prevalence, sorting, percentage calculations
--Power Query: Data cleaning, conditional columns, AgeBand creation, BMI categorization
+- Power BI: Dashboard creation, visual storytelling, slicers, filters
+- DAX: Custom measures for prevalence, sorting, percentage calculations
+- Power Query: Data cleaning, conditional columns, AgeBand creation, BMI categorization
 
 Visuals Used:
--Bubble charts (Glucose vs BMI, sized by HbA1c)
--Matrix heatmaps (Age × BMI → Risk)
--Line charts (Glucose by Age & Ethnicity)
--Donuts, clustered bars, KPIs
+- Bubble charts (Glucose vs BMI, sized by HbA1c)
+- Matrix heatmaps (Age × BMI → Risk)
+- Line charts (Glucose by Age & Ethnicity)
+- Donuts, clustered bars, KPIs
 
 
 ## 🚀 Outcomes
